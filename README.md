@@ -1,5 +1,6 @@
 # kernel-callback-functions-list
 
+## Functions
 - CmRegisterCallbackEx
 - ExAllocateTimer
 - ExInitializeWorkItem
@@ -36,3 +37,7 @@
 - PoRegisterCoalescingCallback
 - PsSetLegoNotifyRoutine
 - SeRegisterImageVerificationCallback
+
+## Credit
+- https://codemachine.com/articles/kernel_callback_functions.html
+
